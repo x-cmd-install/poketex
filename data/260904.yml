@@ -7,7 +7,7 @@ about:
   head: 913d296
   archived: false
   latestVersion: v1.17.0
-  collectedAt: 2026-09-04T20:07:16Z
+  collectedAt: 2026-09-04T20:33:48Z
 timeline:
   created: 2022-12-23
   lastCommit: 2026-05-05
@@ -82,7 +82,7 @@ total:
   commit: 358
 ---
 path: /home/runner/.x-repo/github.com/ckaznable/poketex
-collectedAt: 2026-09-04T20:07:17Z
+collectedAt: 2026-09-04T20:33:50Z
 loc:
   Rust:
     code: 1602
