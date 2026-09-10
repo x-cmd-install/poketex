@@ -12,6 +12,18 @@ Simple Pokedex based on TUI
 x install poketex
 ```
 
+## 代码规模
+
+合计: **2,949** 行代码（覆盖前 5 种语言、共 **27** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 1,602 | 19 | 266 | 21 |
+| Json | 1,303 | 0 | 0 | 3 |
+| Toml | 32 | 0 | 2 | 1 |
+| Makefile | 12 | 0 | 4 | 1 |
+| Markdown | 0 | 80 | 46 | 1 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/ckaznable/poketex>
@@ -23,6 +35,25 @@ x install poketex
 - **最新版本**: `v1.17.0` (2026-05-05)
 - **最近提交**: 2026-05-05
 - **Release 含资产**: 10 个
+
+## 流行度
+
+- **Star**: 218 · **Fork**: 14 · **开放 issue**: 6 · **贡献者**: 6
+
+## 累计统计
+
+- **发布数**: 34 · **已合并 PR**: 60 · **开放 PR**: 0 · **已关闭 issue**: 5 · **开放 issue**: 1 · **提交数**: 358
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-14 | 1 | 4 | 0 | 0 | 1 | 10 |
+| 360d | 2025-09-15 | 2 | 5 | 0 | 0 | 1 | 14 |
+| last720d | 2024-09-20 | 7 | 13 | 0 | 0 | 1 | 54 |
 
 ## Release 资产
 
@@ -39,33 +70,13 @@ x install poketex
 | [poketex-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ckaznable/poketex/releases/download/v1.17.0/poketex-x86_64-unknown-linux-gnu.tar.gz) | 5.2 MiB | `native/linux/x64/glibc` |
 | [poketex-x86_64-unknown-linux-musl.tar.gz](https://github.com/ckaznable/poketex/releases/download/v1.17.0/poketex-x86_64-unknown-linux-musl.tar.gz) | 5.3 MiB | `native/linux/x64/musl` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 218 · **Fork**: 14 · **开放 issue**: 6 · **贡献者**: 6
+在 [repology.org](https://repology.org/project/poketex) 上共有 **7** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 34 · **已合并 PR**: 60 · **开放 PR**: 0 · **已关闭 issue**: 5 · **开放 issue**: 1 · **提交数**: 358
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 360d | 2025-09-15 | 2 | 5 | 0 | 0 | 1 | 0 |
-
-## 代码规模
-
-合计: **2,949** 行代码（覆盖前 5 种语言、共 **27** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 1,602 | 19 | 266 | 21 |
-| Json | 1,303 | 0 | 0 | 3 |
-| Toml | 32 | 0 | 2 | 1 |
-| Makefile | 12 | 0 | 4 | 1 |
-| Markdown | 0 | 80 | 46 | 1 |
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `1.17.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -76,4 +87,4 @@ poketex 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:13:51Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:13:18Z._
