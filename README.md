@@ -23,7 +23,21 @@ x install poketex
 - **Latest**: `v1.17.0` (2026-05-05)
 - **Last commit**: 2026-05-05
 - **Assets in release**: 10
-- **Published**: 2026-05-05T03:46:22Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [poketex-aarch64-apple-darwin.tar.gz](https://github.com/ckaznable/poketex/releases/download/v1.17.0/poketex-aarch64-apple-darwin.tar.gz) | 5.1 MiB | `native/darwin/arm64` |
+| [poketex-aarch64-unknown-linux-gnu.tar.gz](https://github.com/ckaznable/poketex/releases/download/v1.17.0/poketex-aarch64-unknown-linux-gnu.tar.gz) | 5.2 MiB | `native/linux/arm64/glibc` |
+| [poketex-arm-unknown-linux-gnueabi.tar.gz](https://github.com/ckaznable/poketex/releases/download/v1.17.0/poketex-arm-unknown-linux-gnueabi.tar.gz) | 5.2 MiB | `native/linux/arm/glibc` |
+| [poketex-armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/ckaznable/poketex/releases/download/v1.17.0/poketex-armv7-unknown-linux-gnueabihf.tar.gz) | 5.1 MiB | `native/linux/arm/glibc` |
+| [poketex-i686-unknown-linux-gnu.tar.gz](https://github.com/ckaznable/poketex/releases/download/v1.17.0/poketex-i686-unknown-linux-gnu.tar.gz) | 5.2 MiB | `native/linux/x86/glibc` |
+| [poketex-i686-unknown-linux-musl.tar.gz](https://github.com/ckaznable/poketex/releases/download/v1.17.0/poketex-i686-unknown-linux-musl.tar.gz) | 5.2 MiB | `native/linux/x86/musl` |
+| [poketex-x86_64-apple-darwin.tar.gz](https://github.com/ckaznable/poketex/releases/download/v1.17.0/poketex-x86_64-apple-darwin.tar.gz) | 5.1 MiB | `native/darwin/x64` |
+| [poketex-x86_64-pc-windows-msvc.tar.gz](https://github.com/ckaznable/poketex/releases/download/v1.17.0/poketex-x86_64-pc-windows-msvc.tar.gz) | 4.5 MiB | `native/win/x64` |
+| [poketex-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ckaznable/poketex/releases/download/v1.17.0/poketex-x86_64-unknown-linux-gnu.tar.gz) | 5.2 MiB | `native/linux/x64/glibc` |
+| [poketex-x86_64-unknown-linux-musl.tar.gz](https://github.com/ckaznable/poketex/releases/download/v1.17.0/poketex-x86_64-unknown-linux-musl.tar.gz) | 5.3 MiB | `native/linux/x64/musl` |
 
 ## Popularity
 
@@ -39,7 +53,7 @@ x install poketex
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 1 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 360d | 2025-09-15 | 2 | 5 | 0 | 0 | 1 | 14 |
+| 360d | 2025-09-15 | 2 | 5 | 0 | 0 | 1 | 0 |
 
 ## Code size
 
@@ -58,8 +72,8 @@ Total: **2,949** lines of code across **27** files in the top 5 languages.
 Install metadata for poketex lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `poketex` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/poketex.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/poketex.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:33:24Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:13:50Z._
