@@ -22,7 +22,7 @@ Total: **2,949** lines of code across **27** files in the top 5 languages.
 | Json | 1,303 | 0 | 0 | 3 |
 | Toml | 32 | 0 | 2 | 1 |
 | Makefile | 12 | 0 | 4 | 1 |
-| Markdown | 0 | 80 | 46 | 1 |
+| Markdown | 0 | 82 | 48 | 1 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **2,949** lines of code across **27** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.17.0` (2026-05-05)
-- **Last commit**: 2026-05-05
+- **Last commit**: 2026-09-21
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 218 · **Forks**: 14 · **Open issues**: 6 · **Contributors**: 6
+- **Stars**: 218 · **Forks**: 15 · **Open issues**: 6 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 60 · **Open PRs**: 0 · **Closed issues**: 5 · **Open issues**: 1 · **Commits**: 358
+- **Releases**: 34 · **Merged PRs**: 61 · **Open PRs**: 0 · **Closed issues**: 6 · **Open issues**: 0 · **Commits**: 360
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-23 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-23 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-03-25 | 1 | 4 | 0 | 0 | 1 | 10 |
-| 360d | 2025-09-26 | 2 | 5 | 0 | 0 | 1 | 14 |
-| last720d | 2024-10-01 | 4 | 7 | 0 | 0 | 1 | 32 |
+| 30d | 2026-08-23 | 0 | 1 | 0 | 1 | 0 | 1 |
+| last60d | 2026-07-24 | 0 | 1 | 0 | 1 | 0 | 1 |
+| 90d | 2026-06-24 | 0 | 1 | 0 | 1 | 0 | 1 |
+| last180d | 2026-03-26 | 1 | 5 | 0 | 1 | 0 | 11 |
+| 360d | 2025-09-27 | 2 | 6 | 0 | 1 | 0 | 15 |
+| last720d | 2024-10-02 | 3 | 8 | 0 | 1 | 0 | 27 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for poketex lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T04:50:45Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:47:19Z._
