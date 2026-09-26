@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 4749962,
       "digest": "sha256:123c023ba03ca723c1c8c22f27edb5524f44edd51cde4801a23553d22e34acc6",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-05-05T03:49:41Z",
       "updated_at": "2026-05-05T03:49:42Z",
       "browser_download_url": "https://github.com/ckaznable/poketex/releases/download/v1.17.0/poketex-x86_64-pc-windows-msvc.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 5456004,
       "digest": "sha256:b6c929dfc1a78c3a6b5f4e96aac1fefa1736fc4bfbe48d9b34322400e06a6db3",
-      "download_count": 83,
+      "download_count": 84,
       "created_at": "2026-05-05T03:53:27Z",
       "updated_at": "2026-05-05T03:53:27Z",
       "browser_download_url": "https://github.com/ckaznable/poketex/releases/download/v1.17.0/poketex-x86_64-unknown-linux-gnu.tar.gz"
