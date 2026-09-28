@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5339674,
       "digest": "sha256:d5bdb800d8691bf7264f6b547b450be055538860e1a1805b9a8f5ff0d109b0cb",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-05-05T03:48:47Z",
       "updated_at": "2026-05-05T03:48:48Z",
       "browser_download_url": "https://github.com/ckaznable/poketex/releases/download/v1.17.0/poketex-aarch64-apple-darwin.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 5456004,
       "digest": "sha256:b6c929dfc1a78c3a6b5f4e96aac1fefa1736fc4bfbe48d9b34322400e06a6db3",
-      "download_count": 86,
+      "download_count": 88,
       "created_at": "2026-05-05T03:53:27Z",
       "updated_at": "2026-05-05T03:53:27Z",
       "browser_download_url": "https://github.com/ckaznable/poketex/releases/download/v1.17.0/poketex-x86_64-unknown-linux-gnu.tar.gz"
