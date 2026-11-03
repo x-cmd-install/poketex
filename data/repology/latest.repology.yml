@@ -28,28 +28,6 @@
   origversion: null
   status: newest
   summary: Simple Pokedex based on TUI(Terminal User Interface)
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: poketex
-  binname: poketex
-  visiblename: poketex
-  version: 1.17.0
-  origversion: 1.17.0-1
-  status: newest
-  summary: Simple Pokedex based on TUI
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: poketex
-  binname: poketex
-  visiblename: poketex
-  version: 1.17.0
-  origversion: 1.17.0-1
-  status: newest
-  summary: Simple Pokedex based on TUI
-  licenses:
-    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: poketex
