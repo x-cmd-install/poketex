@@ -48,12 +48,12 @@ Total: **2,949** lines of code across **27** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-04 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-05 | 0 | 1 | 0 | 1 | 0 | 1 |
-| last180d | 2026-05-07 | 0 | 1 | 0 | 1 | 0 | 1 |
-| 360d | 2025-11-08 | 2 | 6 | 0 | 1 | 0 | 15 |
-| last720d | 2024-11-13 | 3 | 8 | 0 | 1 | 0 | 26 |
+| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-05 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-06 | 0 | 1 | 0 | 1 | 0 | 1 |
+| last180d | 2026-05-08 | 0 | 1 | 0 | 1 | 0 | 1 |
+| 360d | 2025-11-09 | 2 | 6 | 0 | 1 | 0 | 15 |
+| last720d | 2024-11-14 | 3 | 8 | 0 | 1 | 0 | 26 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for poketex lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:37:59Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:19:03Z._
